@@ -71,13 +71,13 @@ Additional useful observation:
 
 ## Conclusion
 
-In this backtest window, CC cash-flow generation on QQQ is feasible and can outperform buy-and-hold when parameters are calibrated.
+✅ In this backtest window, CC cash-flow generation on QQQ is feasible and can outperform buy-and-hold when parameters are calibrated.
 
 The evidence from this run suggests:
 
-- Lower delta + longer DTE + moderate profit-taking gave the best risk-adjusted result.
-- Chasing maximum premium alone tends to increase assignment drag and can reduce total return.
-- Parameter selection matters more than using a one-size-fits-all CC rule.
+- 🎯 Lower delta + longer DTE + moderate profit-taking gave the best risk-adjusted result.
+- ⚠️ Chasing maximum premium alone tends to increase assignment drag and can reduce total return.
+- 🧩 Parameter selection matters more than using a one-size-fits-all CC rule.
 
 ## Files
 
