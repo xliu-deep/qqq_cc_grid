@@ -79,7 +79,7 @@ The evidence from this run suggests:
 - Chasing maximum premium alone tends to increase assignment drag and can reduce total return.
 - Parameter selection matters more than using a one-size-fits-all CC rule.
 
-## Figures
+## Results
 
 ### KPI Summary
 
